@@ -1,0 +1,12 @@
+Requirements
+This is a standard Java application built with the Swing GUI toolkit.  Software Requirements: nodJava Development Kit (JDK): Version 8 or higher is required to compile and run the project.onpyNo external libraries or third-party dependencies are neededa. Compile the Code:
+Run the Java compiler:
+
+javac MainFrame.java
+
+3. Run the Application:
+After a successful compilation, run the application using the java command:
+
+java MainFrame
+
+The "Peaceful Mind" application window should now appear on your screen.
